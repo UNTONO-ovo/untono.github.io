@@ -1,6 +1,7 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
+    "title":"UNTONO 的个人博客",
+    "subTitle":"“删除我一生中的任何一个瞬间，我都不能成为今天的自己”",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "needComment":1
 }
